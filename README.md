@@ -1,8 +1,8 @@
 # FindingCorrelationBetweenHumansAndObjects
 
 # TR
-
- 
+## Proje 
+Proje staj süresi boyunda kendim tarafından geliştirilmiştir. Geliştirilme süresi 3 haftadır.
 ## Projenin Amacı
 
 Proje görüntüler üzerinden insan davranışlarını analiz etmeyi amaçlar. Örnek vermek gerekirse günümüzde kullanılan nesne tespit algoritmaları sadece nesneleri tespit eder.  Projenin amacı ise sadece nesneleri tespit etmek değil, aynı zamanda insanlarla bu nesneler arasında ilişki kurmaktır. Tespit edilen bu ilişkilerde adım hesabı, kalori hesabı gibi nitelikler de tespit edilebilmektedir.
