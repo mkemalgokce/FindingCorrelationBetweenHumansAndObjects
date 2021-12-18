@@ -71,7 +71,7 @@ Kameraya göre konum tespiti yaparken kişinin omuzları arasındaki mesafe(12. 
 S. Silat and L. Sadath, "Behavioural Biometrics in Feature Profiles-Engineering Healthcare and Rehabilitation Systems," 2021 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE), 2021, pp. 160-165, doi: 10.1109/ICCIKE51210.2021.9410778.
 2021 International Conference on Computational Intelligence and Knowledge Economy (ICCIKE)
 
-https://developers.google.com/ml-kit/vision/pose-detection/classifying-poses
+https://developers.google.com/ml-kit/vision/pose-detection
 
 Bazarevsky , Valentine and Grishchenko , Ivan. (2020) . On-device Real-time Body Pose Tracking with MediaPipe BlazePose , Google Research 
 https://ai.googleblog.com/2020/08/on-device-real-time-body-pose-tracking.html
